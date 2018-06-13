@@ -1,0 +1,1161 @@
+[2018-06-12T21:16:38.060] [ERROR] cheese - Error in assume role
+[2018-06-12T21:16:38.095] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T15:46:38.047Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T15:46:38.047Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T15:46:38.045Z,
+        retryable: true } } }
+[2018-06-12T21:16:38.115] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T21:16:38.127] [ERROR] cheese - Error in assume role
+[2018-06-12T21:16:38.127] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T15:46:38.125Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T15:46:38.125Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T15:46:38.047Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T21:31:29.948] [ERROR] cheese - Error in assume role
+[2018-06-12T21:31:29.948] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:01:29.948Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:01:29.948Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:01:29.948Z,
+        retryable: true } } }
+[2018-06-12T21:31:29.961] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T21:31:29.963] [ERROR] cheese - Error in assume role
+[2018-06-12T21:31:29.963] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:01:29.963Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:01:29.963Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:01:29.948Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T21:32:32.160] [ERROR] cheese - Error in assume role
+[2018-06-12T21:32:32.160] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:02:32.160Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:02:32.160Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:02:32.160Z,
+        retryable: true } } }
+[2018-06-12T21:32:32.160] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T21:32:32.160] [ERROR] cheese - Error in assume role
+[2018-06-12T21:32:32.160] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:02:32.160Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:02:32.160Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:02:32.160Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T21:34:40.198] [ERROR] cheese - Error in assume role
+[2018-06-12T21:34:40.198] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:04:40.198Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:04:40.198Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:04:40.198Z,
+        retryable: true } } }
+[2018-06-12T21:34:40.200] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T21:34:40.200] [ERROR] cheese - Error in assume role
+[2018-06-12T21:34:40.200] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:04:40.200Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:04:40.200Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:04:40.198Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T21:36:04.369] [ERROR] cheese - Error in assume role
+[2018-06-12T21:36:04.369] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:06:04.369Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:06:04.369Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:06:04.369Z,
+        retryable: true } } }
+[2018-06-12T21:36:04.374] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T21:36:04.376] [ERROR] cheese - Error in assume role
+[2018-06-12T21:36:04.376] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:06:04.376Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:06:04.376Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:06:04.369Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T22:02:39.650] [ERROR] cheese - Error in assume role
+[2018-06-12T22:02:39.650] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:32:39.650Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:32:39.650Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:32:39.650Z,
+        retryable: true } } }
+[2018-06-12T22:02:39.652] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:02:39.653] [ERROR] cheese - Error in assume role
+[2018-06-12T22:02:39.653] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:32:39.653Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:32:39.653Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:32:39.650Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T22:04:50.683] [ERROR] cheese - Error in assume role
+[2018-06-12T22:04:50.683] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:34:50.683Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:34:50.683Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:34:50.683Z,
+        retryable: true } } }
+[2018-06-12T22:04:50.685] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:04:50.686] [ERROR] cheese - Error in assume role
+[2018-06-12T22:04:50.686] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:34:50.686Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:34:50.686Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:34:50.683Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T22:09:07.816] [ERROR] cheese - Error in assume role
+[2018-06-12T22:09:07.816] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:39:07.816Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:39:07.816Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:39:07.816Z,
+        retryable: true } } }
+[2018-06-12T22:09:07.862] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:09:16.761] [ERROR] cheese - Error in assume role
+[2018-06-12T22:09:16.761] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:39:16.761Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:39:16.761Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:39:16.760Z,
+        retryable: true } } }
+[2018-06-12T22:09:16.806] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:09:16.807] [ERROR] cheese - Error in assume role
+[2018-06-12T22:09:16.807] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:39:16.807Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:39:16.807Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:39:16.761Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T22:26:59.564] [ERROR] cheese - Error in assume role
+[2018-06-12T22:26:59.564] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:56:59.564Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:56:59.564Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T16:56:59.564Z,
+        retryable: true } } }
+[2018-06-12T22:26:59.564] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:26:59.564] [ERROR] cheese - Error in assume role
+[2018-06-12T22:26:59.564] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T16:56:59.564Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T16:56:59.564Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T16:56:59.564Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T22:30:15.085] [ERROR] cheese - Error in assume role
+[2018-06-12T22:30:15.085] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:00:15.085Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:00:15.085Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:00:15.085Z,
+        retryable: true } } }
+[2018-06-12T22:30:15.087] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:30:15.094] [ERROR] cheese - Error in assume role
+[2018-06-12T22:30:15.094] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:00:15.093Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:00:15.093Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T17:00:15.085Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T22:34:49.145] [ERROR] cheese - Error in assume role
+[2018-06-12T22:34:49.145] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:04:49.145Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:04:49.145Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:04:49.145Z,
+        retryable: true } } }
+[2018-06-12T22:34:49.233] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:34:49.234] [ERROR] cheese - Error in assume role
+[2018-06-12T22:34:49.234] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:04:49.234Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:04:49.234Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T17:04:49.145Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T22:35:12.262] [ERROR] cheese - Error in assume role
+[2018-06-12T22:35:12.262] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:05:12.262Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:05:12.262Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:05:12.262Z,
+        retryable: true } } }
+[2018-06-12T22:35:12.263] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:50:54.262] [ERROR] cheese - Error in assume role
+[2018-06-12T22:50:54.263] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:20:54.262Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:20:54.262Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:20:54.262Z,
+        retryable: true } } }
+[2018-06-12T22:50:54.266] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:52:47.348] [ERROR] cheese - Error in assume role
+[2018-06-12T22:52:47.348] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:22:47.348Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:22:47.348Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:22:47.348Z,
+        retryable: true } } }
+[2018-06-12T22:52:47.368] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T22:52:47.369] [ERROR] cheese - Error in assume role
+[2018-06-12T22:52:47.369] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:22:47.369Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:22:47.369Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T17:22:47.348Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:23:52.433] [ERROR] cheese - Error in assume role
+[2018-06-12T23:23:52.433] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:53:52.406Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:53:52.406Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:53:52.406Z,
+        retryable: true } } }
+[2018-06-12T23:23:52.433] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:23:52.433] [ERROR] cheese - Error in assume role
+[2018-06-12T23:23:52.433] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:53:52.433Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:53:52.433Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T17:53:52.406Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:25:30.506] [ERROR] cheese - Error in assume role
+[2018-06-12T23:25:30.506] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:55:30.506Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:55:30.506Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:55:30.506Z,
+        retryable: true } } }
+[2018-06-12T23:25:30.508] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:25:30.509] [ERROR] cheese - Error in assume role
+[2018-06-12T23:25:30.509] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:55:30.509Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:55:30.509Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T17:55:30.506Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:26:45.889] [ERROR] cheese - Error in assume role
+[2018-06-12T23:26:45.889] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:56:45.889Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:56:45.889Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:56:45.889Z,
+        retryable: true } } }
+[2018-06-12T23:26:45.891] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:26:45.892] [ERROR] cheese - Error in assume role
+[2018-06-12T23:26:45.892] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:56:45.892Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:56:45.892Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T17:56:45.889Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:27:51.456] [ERROR] cheese - Error in assume role
+[2018-06-12T23:27:51.456] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:57:51.456Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:57:51.456Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T17:57:51.456Z,
+        retryable: true } } }
+[2018-06-12T23:27:51.458] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:27:51.459] [ERROR] cheese - Error in assume role
+[2018-06-12T23:27:51.459] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T17:57:51.459Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T17:57:51.459Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T17:57:51.456Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:35:21.796] [ERROR] cheese - Error in assume role
+[2018-06-12T23:35:21.796] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:05:21.795Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:05:21.795Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T18:05:21.795Z,
+        retryable: true } } }
+[2018-06-12T23:35:21.799] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:35:21.800] [ERROR] cheese - Error in assume role
+[2018-06-12T23:35:21.800] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:05:21.800Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:05:21.800Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T18:05:21.795Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:36:56.518] [ERROR] cheese - Error in assume role
+[2018-06-12T23:36:56.519] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:06:56.518Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:06:56.518Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T18:06:56.518Z,
+        retryable: true } } }
+[2018-06-12T23:36:56.520] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:36:56.521] [ERROR] cheese - Error in assume role
+[2018-06-12T23:36:56.521] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:06:56.521Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:06:56.521Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T18:06:56.518Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:37:36.208] [ERROR] cheese - Error in assume role
+[2018-06-12T23:37:36.208] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:07:36.208Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:07:36.208Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T18:07:36.208Z,
+        retryable: true } } }
+[2018-06-12T23:37:36.210] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:37:36.212] [ERROR] cheese - Error in assume role
+[2018-06-12T23:37:36.212] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:07:36.212Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:07:36.212Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T18:07:36.208Z,
+        retryable: true,
+        originalError: [Object] } } }
+[2018-06-12T23:39:34.617] [ERROR] cheese - Error in assume role
+[2018-06-12T23:39:34.617] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:09:34.617Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:09:34.617Z,
+     retryable: true,
+     originalError: 
+      { message: 'Connection timed out after 1000ms',
+        code: 'TimeoutError',
+        time: 2018-06-12T18:09:34.617Z,
+        retryable: true } } }
+[2018-06-12T23:39:34.619] [ERROR] cheese - 1N/A1Linux
+[2018-06-12T23:39:34.620] [ERROR] cheese - Error in assume role
+[2018-06-12T23:39:34.620] [ERROR] cheese - { CredentialsError: Missing credentials in config
+    at ClientRequest.<anonymous> (C:\xampp56\htdocs\live-testinginfraguard\running_infraguard\infraguard\node_modules\aws-sdk\lib\http\node.js:83:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at ClientRequest.emit (events.js:208:7)
+    at Socket.emitTimeout (_http_client.js:706:34)
+    at Object.onceWrapper (events.js:313:30)
+    at emitNone (events.js:106:13)
+    at Socket.emit (events.js:208:7)
+    at Socket._onTimeout (net.js:410:8)
+    at ontimeout (timers.js:498:11)
+  message: 'Missing credentials in config',
+  code: 'CredentialsError',
+  time: 2018-06-12T18:09:34.620Z,
+  retryable: true,
+  originalError: 
+   { message: 'Could not load credentials from any providers',
+     code: 'CredentialsError',
+     time: 2018-06-12T18:09:34.620Z,
+     retryable: true,
+     originalError: 
+      { message: 'Missing credentials in config',
+        code: 'CredentialsError',
+        time: 2018-06-12T18:09:34.617Z,
+        retryable: true,
+        originalError: [Object] } } }
